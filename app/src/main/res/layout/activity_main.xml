@@ -25,7 +25,7 @@
     <TextView
         android:focusable="true"
         android:clickable="true"
-        android:background="@drawable/MR_touch_bg"
+        android:background="@drawable/mr_touch_bg"
         android:textSize="20sp"
         android:gravity="center"
         android:text="测试按钮"
@@ -37,12 +37,12 @@
         android:id="@+id/textView3" />
 
     <ImageButton
-        android:background="@drawable/MR_bg_transparent_to_gray"
+        android:background="@drawable/mr_bg_transparent_to_gray"
         android:id="@+id/imageView"
         android:layout_width="40dp"
         android:layout_height="40dp"
         android:layout_below="@+id/textView3"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="53dp"
-        android:src="@drawable/MR_white_menu_three_point"/>
+        android:src="@drawable/mr_white_menu_three_point"/>
 </RelativeLayout>
